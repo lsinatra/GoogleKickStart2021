@@ -1,4 +1,4 @@
-# Copyright (c) 2021 kamyu. All rights reserved.
+# Copyright (c) 2021 lsina. All rights reserved.
 #
 # Google Kick Start 2021 Round D - Problem C. Final Exam
 # https://codingcompetitions.withgoogle.com/kickstart/round/00000000004361e3/000000000082bffc
