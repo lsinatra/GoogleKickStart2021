@@ -1,4 +1,4 @@
-# Copyright (c) 2021 kamyu. All rights reserved.
+# Copyright (c) 2021 lsina. All rights reserved.
 #
 # Google Kick Start 2021 Round B - Problem A. Increasing Substring
 # https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435a5b/000000000077a882
