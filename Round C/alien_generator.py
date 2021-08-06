@@ -1,4 +1,4 @@
-# Copyright (c) 2021 kamyu. All rights reserved.
+# Copyright (c) 2021 lsina. All rights reserved.
 #
 # Google Kick Start 2021 Round C - Problem B. Alien Generator
 # https://codingcompetitions.withgoogle.com/kickstart/round/0000000000435c44/00000000007ec1cb
